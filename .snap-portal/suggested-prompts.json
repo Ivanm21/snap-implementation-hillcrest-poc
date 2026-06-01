@@ -1,0 +1,6 @@
+[
+  { "label": "What does this tab want?", "text": "What does this tab want from me?" },
+  { "label": "What address types do I use?", "text": "What address types can I use?" },
+  { "label": "How do I submit the CSV?", "text": "How do I submit the CSV template?" },
+  { "label": "Tell me about your code", "text": "Tell me about the SNAP source code." }
+]

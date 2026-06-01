@@ -1,0 +1,6 @@
+code,business_type_name,requires_dba,requires_ein,notes
+LLC,Limited Liability Company,N,Y,
+SCORP,S-Corporation,N,Y,
+CCORP,C-Corporation,N,Y,
+SP,Sole Proprietorship,Y,N,DBA required if not using owner name
+PART,General Partnership,N,Y,

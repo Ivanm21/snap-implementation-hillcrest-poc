@@ -1,0 +1,26 @@
+[
+  {
+    "id": "jane-doe",
+    "name": "Jane Doe",
+    "role": "Bank Contributor",
+    "org": "Hillcrest Community Bank"
+  },
+  {
+    "id": "mark-rollins",
+    "name": "Mark Rollins",
+    "role": "Bank Admin",
+    "org": "Hillcrest Community Bank"
+  },
+  {
+    "id": "lisa-park",
+    "name": "Lisa Park",
+    "role": "Bank Viewer",
+    "org": "Hillcrest Community Bank"
+  },
+  {
+    "id": "jenny-zap",
+    "name": "Jenny",
+    "role": "ZAP Implementation",
+    "org": "ZAP"
+  }
+]

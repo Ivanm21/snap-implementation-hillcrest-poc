@@ -1,0 +1,8 @@
+country_code,country_name,region,allowed,requires_review
+US,United States,Americas,Y,N
+CA,Canada,Americas,Y,N
+MX,Mexico,Americas,Y,N
+GB,United Kingdom,Europe,Y,N
+IR,Iran,Asia,N,N
+KP,North Korea,Asia,N,N
+CU,Cuba,Americas,N,N

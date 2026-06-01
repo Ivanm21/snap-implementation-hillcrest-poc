@@ -1,0 +1,4 @@
+branch_id,branch_name,street,city,state,zip,branch_type,drive_through,atm,opened_date
+1001,Main,123 Main St,Hillcrest,TX,77001,full,Y,Y,1984-06-12
+1002,Westside,4500 Western Blvd,Hillcrest,TX,77004,full,N,Y,1992-03-01
+1003,Eastside Drive-Thru,800 East Pkwy,Hillcrest,TX,77011,drive_through,Y,Y,2008-09-15

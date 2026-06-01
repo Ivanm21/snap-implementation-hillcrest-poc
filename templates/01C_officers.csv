@@ -1,0 +1,4 @@
+officer_id,name,title,branch_id,email,phone,active
+A0001,Pat Reynolds,VP Lending,1001,preynolds@hillcrest.example,713-555-0101,Y
+A0002,Jordan Lee,Branch Manager,1002,jlee@hillcrest.example,713-555-0102,Y
+A0003,Sam Cole,Operations Officer,1001,scole@hillcrest.example,713-555-0103,Y
